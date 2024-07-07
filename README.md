@@ -5,7 +5,7 @@
 - Explicaciones Prácticas en Formato PPTX
 
 ### **Teorías**
-- Todas las teroías, desde **Estructuras de Control** a **Corrección y Eficiencia** en formato PDF
+- Todas las teroías, desde **Estructuras de Control** hasta **Corrección y Eficiencia** en formato PDF
 
 ### **Algoritmos**
 - Algunos algoritmos importantes, entre ellos `Insertar un elemento en una lista ordenada`, `Ordenacion de Vectores con Intercambio`, `Eliminación de un elemento en una lista`, entre otros
